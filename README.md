@@ -3,7 +3,7 @@
 
 Meu nome é Marcos Vinicius
 
- - Estou estudando na alura
+ - Estou estudando na [Alura](www.alura.com.br)
  - Estou me desenvolvendo na linguage javaScript
  - Ultilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
