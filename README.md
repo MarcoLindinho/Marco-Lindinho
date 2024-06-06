@@ -4,7 +4,7 @@
 Meu nome é Marcos Vinicius
 
  - Estou estudando na plataforma [Alura](https://www.alura.com.br/)
- - Estou me desenvolvendo na linguage javascript na plataforma [p5js editor](https://editor.p5js.org/Marcolaskils/sketches/K4KyV9270)
+ - Estou me desenvolvendo na linguagem javascript na plataforma [p5js editor](https://editor.p5js.org/Marcolaskils/sketches/K4KyV9270)
  - Ultilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 
