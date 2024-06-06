@@ -8,7 +8,7 @@ Meu nome é Marcos Vinicius
  - Ultilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 
-### Você entrar em contato comigo 📫
+### Entre em contato comigo 📫
 0000110551108xsp@al.educacao.sp.gov.br
 
 
